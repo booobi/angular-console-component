@@ -1,0 +1,19 @@
+{
+  "name": "angular-console-component",
+  "version": "1.0.0",
+  "description": "Chrome extension to directly store and use angular components as variables from html elements with a single click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booobi/angular-console-component.git"
+  },
+  "author": "booobi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booobi/angular-console-component/issues"
+  },
+  "homepage": "https://github.com/booobi/angular-console-component#readme"
+}
